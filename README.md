@@ -1,11 +1,11 @@
 <h1>Portfolio Website - Personal Web Showcase</h1>
 
-### [Live Site Demo](https://yourportfolio.example.com)
+### [Live Site Demo](https://thecartermann.netlify.app/)
 
 <h2>Description</h2>
-This is a responsive personal portfolio website built to showcase my web development skills, projects, and contact information. It features clean layout design, smooth interactions, and optimized performance using only HTML, CSS, and JavaScript.
+This is a personal portfolio website built to showcase my web development skills, projects, and contact information. It features clean layout design, and smooth interactions using only HTML, CSS, and JavaScript.
 
-The purpose of this website is to present my capabilities as a developer to potential employers, collaborators, or clients. Visitors can explore different projects, learn about my background, and reach out directly through the contact section.
+The purpose of this website is to present my capabilities as a developer to potential employers, collaborators, or clients. Visitors can explore different projects, and reach out directly through the contact section.
 
 <br />
 
@@ -20,8 +20,7 @@ The purpose of this website is to present my capabilities as a developer to pote
 <h2>Environments Used</h2>
 
 - <b>Visual Studio Code</b> – Development environment  
-- <b>Chrome Developer Tools</b> – Debugging and testing  
-- <b>GitHub Pages</b> – Deployment (optional, if hosted there)  
+- <b>Chrome Developer Tools</b> – Debugging and testing   
 
 <br />
 
@@ -29,15 +28,19 @@ The purpose of this website is to present my capabilities as a developer to pote
 
 <p align="center">
 Homepage Layout: <br/>
-<img src="https://i.imgur.com/nXY7oQX.png" height="80%" width="80%" alt="Homepage Screenshot"/>
+<img src="https://i.imgur.com/xBGkwQc.png" height="80%" width="80%" alt="Homepage Screenshot"/>
 <br />
 <br />
-Responsive Design (Mobile View): <br/>
-<img src="https://via.placeholder.com/400x700.png?text=Mobile+View" height="80%" width="40%" alt="Mobile Screenshot"/>
+About Me: <br/>
+<img src="https://i.imgur.com/xUIoSQh.png" height="80%" width="40%" alt="About Me Screenshot"/>
+<br />
+<br />
+Experience Page <br/>
+<img src="https://i.imgur.com/saSvjel.png" height="80%" width="40%" alt="Experience Screenshot"/>
 <br />
 <br />
 Project Section: <br/>
-<img src="https://via.placeholder.com/800x450.png?text=Projects+Section" height="80%" width="80%" alt="Projects Screenshot"/>
+<img src="https://i.imgur.com/uLwatQg.png" height="80%" width="80%" alt="Projects Screenshot"/>
 <br />
 <br />
 Contact Form: <br/>
